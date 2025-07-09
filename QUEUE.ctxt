@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=QUEUE
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=routeName\ queue
+comment2.target=void\ DisplayQueue(java.lang.String,\ java.util.Queue)
+comment3.params=crewList
+comment3.target=void\ searchPirate(java.util.LinkedList)
+numComments=4

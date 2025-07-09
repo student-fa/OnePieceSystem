@@ -1,0 +1,100 @@
+﻿OP001;Nico;Dragon Pirates;MM001;Spy Operation;4;2025-07-29;1;25720
+OP001;Nico;Dragon Pirates;MM002;Island Rescue;3;2025-08-20;5;46074
+OP001;Nico;Dragon Pirates;MM003;Treasure Hunt;1;2025-08-13;3;56862
+OP001;Nico;Dragon Pirates;MM004;Treasure Hunt;4;2025-06-27;3;20756
+OP002;Ariana;Bloodwave Pirates;MM005;Spy Operation;5;2025-07-11;1;68482
+OP002;Ariana;Bloodwave Pirates;MM006;Spy Operation;5;2025-09-09;2;68870
+OP002;Ariana;Bloodwave Pirates;MM007;Treasure Hunt;1;2025-04-29;2;79206
+OP002;Ariana;Bloodwave Pirates;MM008;Marine Battle;4;2025-11-14;1;66626
+OP005;Hugo;Deep Sea Pirates;MM009;Island Rescue;5;2025-12-29;2;84351
+OP005;Hugo;Deep Sea Pirates;MM010;Island Protection;1;2025-12-06;5;41253
+OP005;Hugo;Deep Sea Pirates;MM011;Treasure Hunt;2;2025-12-14;3;75154
+OP005;Hugo;Deep Sea Pirates;MM012;Island Rescue;5;2025-08-30;2;53462
+OP010;Kai;Nightshore Pirates;MM013;Island Protection;2;2025-11-04;1;74108
+OP005;Hugo;Deep Sea Pirates;MM014;Treasure Hunt;2;2025-11-09;3;76134
+OP015;Beckham;Katseye Pirates;MM015;Treasure Hunt;1;2025-09-04;2;39335
+OP013;Rory;Green Pirates;MM016;Guard Duty;2;2025-07-27;2;88765
+OP012;Levi;Anchor Pirates;MM017;Marine Battle;3;2025-03-15;3;65759
+OP030;William;Dragon Pirates;MM018;Treasure Hunt;5;2025-08-23;4;24746
+OP012;Levi;Anchor Pirates;MM019;Marine Battle;2;2025-08-13;1;73462
+OP029;Vivienne;Nightshore Pirates;MM020;Spy Operation;3;2025-07-29;4;59705
+OP007;Luca;Ember Beard Pirates;MM021;Treasure Hunt;5;2025-07-27;5;40672
+OP028;Abel;Nightshore Pirates;MM022;Guard Duty;2;2025-02-08;5;81765
+OP014;Cruz;Gnarly Pirates;MM023;Island Rescue;1;2025-11-27;1;26199
+OP009;Ruby;HeroSea Pirates;MM024;Guard Duty;5;2025-03-12;3;87873
+OP017;Harper;Sea Snakes Pirates;MM025;Island Protection;4;2025-10-02;1;9455
+OP018;Brooklyn;Beast Pirates;MM026;Spy Operation;1;2025-04-10;4;42286
+OP015;Beckham;Katseye Pirates;MM027;Island Protection;3;2025-09-13;5;64916
+OP027;Emme;Nightshore Pirates;MM028;Island Rescue;5;2025-12-14;2;4040
+OP012;Levi;Anchor Pirates;MM029;Guard Duty;4;2025-08-02;1;87782
+OP012;Levi;Anchor Pirates;MM030;Treasure Hunt;2;2025-11-07;5;57582
+OP028;Abel;Nightshore Pirates;MM031;Guard Duty;5;2025-06-15;3;63683
+OP015;Beckham;Katseye Pirates;MM032;Treasure Hunt;5;2025-05-20;2;88780
+OP001;Nico;Dragon Pirates;MM033;Island Rescue;4;2025-05-03;2;56451
+OP002;Ariana;Bloodwave Pirates;MM034;Treasure Hunt;1;2025-08-31;1;50078
+OP029;Vivienne;Nightshore Pirates;MM035;Island Protection;3;2025-07-11;3;15269
+OP029;Vivienne;Nightshore Pirates;MM036;Treasure Hunt;2;2025-01-28;2;47138
+OP016;Romeo;Sharky Pirates;MM037;Guard Duty;2;2025-05-16;1;63286
+OP012;Levi;Anchor Pirates;MM038;Treasure Hunt;2;2025-02-03;2;55384
+OP021;Rhea;Victorious Pirates;MM039;Island Protection;2;2025-11-22;1;55056
+OP007;Luca;Ember Beard Pirates;MM040;Marine Battle;4;2025-10-02;4;29578
+OP024;Tatum;Westwood Pirates;MM041;Spy Operation;3;2025-05-18;1;39163
+OP023;Skye;The Weeknd Pirates;MM042;Island Protection;2;2025-07-12;2;53601
+OP018;Brooklyn;Beast Pirates;MM043;Island Protection;4;2025-05-22;3;70658
+OP011;Jude;Black Powder Pirates;MM044;Guard Duty;4;2025-03-20;4;7451
+OP026;Mia;Westwood Pirates;MM045;Island Protection;4;2025-09-17;2;27170
+OP021;Rhea;Victorious Pirates;MM046;Marine Battle;4;2025-01-09;2;2989
+OP008;Rue;Frostbite Pirates;MM047;Treasure Hunt;1;2025-01-12;5;15644
+OP023;Skye;The Weeknd Pirates;MM048;Guard Duty;1;2025-11-27;3;71759
+OP006;Dorian;Saltbone Pirates;MM049;Marine Battle;1;2025-06-10;3;41309
+OP024;Tatum;Westwood Pirates;MM050;Spy Operation;4;2025-02-21;5;57588
+OP022;Olive;Golden Crew Pirates;MM051;Treasure Hunt;2;2025-11-19;4;37755
+OP026;Mia;Westwood Pirates;MM052;Spy Operation;4;2025-01-29;2;58672
+OP018;Brooklyn;Beast Pirates;MM053;Spy Operation;2;2025-11-19;3;15414
+OP017;Harper;Sea Snakes Pirates;MM054;Island Rescue;2;2025-05-08;5;73142
+OP009;Ruby;HeroSea Pirates;MM055;Island Rescue;1;2025-03-29;3;14998
+OP006;Dorian;Saltbone Pirates;MM056;Treasure Hunt;4;2025-03-22;3;85830
+OP016;Romeo;Sharky Pirates;MM057;Spy Operation;3;2025-01-09;2;71323
+OP030;William;Dragon Pirates;MM058;Island Rescue;5;2025-08-04;2;62030
+OP002;Ariana;Bloodwave Pirates;MM059;Island Protection;3;2025-03-04;1;87960
+OP006;Dorian;Saltbone Pirates;MM060;Island Protection;3;2025-05-08;2;24493
+OP003;Mason;Shadow Pirates;MM061;Marine Battle;5;2025-02-06;2;77116
+OP014;Cruz;Gnarly Pirates;MM062;Island Protection;5;2025-06-15;4;55523
+OP016;Romeo;Sharky Pirates;MM063;Island Rescue;4;2025-07-26;3;72182
+OP020;Bodhi;Sailor Pirates;MM064;Guard Duty;5;2025-06-30;2;70119
+OP009;Ruby;HeroSea Pirates;MM065;Island Protection;3;2025-04-05;1;27274
+OP016;Romeo;Sharky Pirates;MM066;Marine Battle;4;2025-01-06;5;73874
+OP018;Brooklyn;Beast Pirates;MM067;Island Rescue;1;2025-08-24;2;37655
+OP001;Nico;Dragon Pirates;MM068;Spy Operation;2;2025-05-24;3;88295
+OP002;Ariana;Bloodwave Pirates;MM069;Spy Operation;4;2025-05-31;3;83842
+OP019;Remi;Moon Pirates;MM070;Island Protection;3;2025-03-22;1;61640
+OP024;Tatum;Westwood Pirates;MM071;Island Rescue;3;2025-03-05;3;46877
+OP010;Kai;Nightshore Pirates;MM072;Island Protection;3;2025-12-31;4;74295
+OP026;Mia;Westwood Pirates;MM073;Island Rescue;4;2025-01-12;2;10073
+OP003;Mason;Shadow Pirates;MM074;Guard Duty;3;2025-07-21;2;88550
+OP016;Romeo;Sharky Pirates;MM075;Marine Battle;1;2025-03-20;4;51916
+OP004;Ella;Moonblade Pirates;MM076;Marine Battle;4;2025-06-13;5;12696
+OP021;Rhea;Victorious Pirates;MM077;Island Protection;5;2025-09-18;4;45495
+OP012;Levi;Anchor Pirates;MM078;Treasure Hunt;4;2025-08-03;4;72663
+OP001;Nico;Dragon Pirates;MM079;Guard Duty;1;2025-12-10;4;26181
+OP030;William;Dragon Pirates;MM080;Treasure Hunt;2;2025-07-05;5;5018
+OP003;Mason;Shadow Pirates;MM081;Marine Battle;3;2025-08-23;1;6793
+OP013;Rory;Green Pirates;MM082;Treasure Hunt;1;2025-09-07;4;66099
+OP006;Dorian;Saltbone Pirates;MM083;Treasure Hunt;5;2025-01-03;2;12455
+OP030;William;Dragon Pirates;MM084;Island Rescue;3;2025-01-26;5;8765
+OP022;Olive;Golden Crew Pirates;MM085;Guard Duty;5;2025-03-09;4;14675
+OP011;Jude;Black Powder Pirates;MM086;Island Protection;4;2025-10-29;4;69062
+OP025;Dean;Miller Pirates;MM087;Treasure Hunt;4;2025-07-28;5;41401
+OP005;Hugo;Deep Sea Pirates;MM088;Spy Operation;2;2025-03-25;2;44154
+OP017;Harper;Sea Snakes Pirates;MM089;Island Protection;1;2025-04-23;2;80542
+OP012;Levi;Anchor Pirates;MM090;Treasure Hunt;2;2025-02-26;1;59443
+OP007;Luca;Ember Beard Pirates;MM091;Guard Duty;1;2025-02-17;1;66329
+OP025;Dean;Miller Pirates;MM092;Spy Operation;1;2025-09-05;2;85658
+OP013;Rory;Green Pirates;MM093;Marine Battle;1;2025-08-13;4;57247
+OP013;Rory;Green Pirates;MM094;Marine Battle;5;2025-09-08;4;32462
+OP017;Harper;Sea Snakes Pirates;MM095;Island Rescue;5;2025-03-13;3;68792
+OP004;Ella;Moonblade Pirates;MM096;Spy Operation;1;2025-10-27;1;43204
+OP009;Ruby;HeroSea Pirates;MM097;Island Protection;5;2025-07-25;2;68423
+OP020;Bodhi;Sailor Pirates;MM098;Spy Operation;3;2025-10-16;3;82713
+OP007;Luca;Ember Beard Pirates;MM099;Guard Duty;3;2025-12-16;1;36470
+OP004;Ella;Moonblade Pirates;MM100;Island Protection;1;2025-10-25;3;19789

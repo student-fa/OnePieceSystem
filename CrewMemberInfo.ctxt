@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CrewMemberInfo
+comment1.params=memberId\ memberName\ pirateCrew
+comment1.target=CrewMemberInfo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMemberId()
+comment3.params=
+comment3.target=java.lang.String\ getMemberName()
+comment4.params=
+comment4.target=java.lang.String\ getPirateCrew()
+comment5.params=
+comment5.target=java.util.LinkedList\ getMissions()
+comment6.params=mission
+comment6.target=void\ addMission(MissionInfo)
+comment7.params=
+comment7.target=int\ getMissionCount()
+comment8.params=
+comment8.target=int\ getTotalBounty()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
